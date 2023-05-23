@@ -9,4 +9,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3    
     - name: Greet User
-      run: echo welcome to IBM 
+      run: ech welcome to IBM 
